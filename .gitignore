@@ -1,0 +1,38 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### STS / Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+
+### Gradle ###
+.gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+
+### Logs ###
+*.log
+
+
+### OS-specific ###
+.DS_Store
+Thumbs.db
+
+
+### Temporary Files ###
+*.tmp
+*.swp
+*.swo
+
+
+### Test Outputs ###
+test-output/
+
